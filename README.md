@@ -1,15 +1,13 @@
 # github-demo
-plus de details
+Un super pitch
 
 ## Introduction
-quelques mots en introducitons (mais pas en commit)
+présentation du context
 
 
 ## Deployment
-lots of instructions here
+Liste d'instrucutions
 - instruction 1
 - instruction 2
 - instruction 3
 
-## Conclusion
-a few word in conclusion
