@@ -3,6 +3,6 @@ A sample demo repo
 
 ## Introduction
 
-## Details
+## Deployment
 
 ## Conclusion
