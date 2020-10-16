@@ -1,5 +1,5 @@
 # github-demo
-A sample demo repo
+Voici un super pitch !!
 
 ## Introduction
 
