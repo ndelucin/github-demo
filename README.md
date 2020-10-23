@@ -1,5 +1,5 @@
 # github-demo
-Un super pitch
+Un super pitch enrichi par REMOTE
 
 ## premier titre 
 un vrai texte
